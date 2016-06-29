@@ -1,4 +1,4 @@
-class Msgpack < Formula
+class Msgpack14 < Formula
   desc "Library for a binary-based efficient data interchange format"
   homepage "https://msgpack.org/"
   url "https://github.com/msgpack/msgpack-c/releases/download/cpp-1.4.2/msgpack-1.4.2.tar.gz"
